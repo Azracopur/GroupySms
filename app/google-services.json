@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564043029345",
+    "project_id": "groupysms-475a2",
+    "storage_bucket": "groupysms-475a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564043029345:android:2b6807c73e852b79230320",
+        "android_client_info": {
+          "package_name": "com.example.groupysms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASCN19POijWrt4R8e2qVOWFFAO08w5h8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
